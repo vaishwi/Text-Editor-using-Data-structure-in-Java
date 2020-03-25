@@ -1,1 +1,1 @@
-# Text-Editor-using-Data-structure-in-Java
+# Text Editor using Data structure in Java
